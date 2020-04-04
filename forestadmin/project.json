@@ -1,9 +1,9 @@
 {
   "project": {
-    "name": "betrybe/sd-0x-block5-project-meme-generator",
+    "name": "tryber/sd-04-block5-project-meme-generator",
     "description": "Projeto de HTML, CSS & JavaScript.",
     "enabled": true,
-    "deadline": "YYYY-MM-DD 17:10:00",
+    "deadline": "2020-04-13 17:10:00",
     "requirements": [
       {
         "description": "O site deve possuir uma caixa de texto com a qual quem usa pode interagir para inserir texto em cima da imagem escolhida.",
