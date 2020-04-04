@@ -1,0 +1,8 @@
+{
+  "O site deve possuir uma caixa de texto com a qual quem usa pode interagir para inserir texto em cima da imagem escolhida. A caixa de texto deve, necessariamente, ter um id denominado 'text-input'. O texto de quem usa deve ser inserido sobre a imagem escolhida. Se não houver imagem inserida, ele deve ser inserido sobre a área onde a imagem aparece na posição correta.": 0,
+  "O site deve permitir que quem usa faça upload de uma imagem de seu computador. A imagem escolhida deve ocupar o espaço delimitado pela moldura, assim como seu texto.": 0,
+  "O site deve ter uma moldura em volta da área onde a imagem aparecerá depois de ser escolhida. A moldura deve ter 1 pixel de largura, deve ser preta e do tipo 'solid'. A área onde a imagem aparecerá deve ter fundo branco.": 0,
+  "Permita a quem usa customizar o meme escolhido acrescentando a ele uma de três bordas. A página deve ter três botões, cada um colocando a própria borda ao redor da imagem. Um botão identificado com o id 'button1' deve estilizar o container da imagem com uma borda de 3 pixels, _dashed_ e vermelha. O botão com id 'button2' deve ser azul, borda _double_ de 5 pixels. O botão com id 'button3' deve ser verde com borda _groove_ com 6 pixels.": 0,
+  "Tenha um conjunto de quatro imagens pré prontas de memes famosos para o usuário escolher. Liste miniaturas das imagens e, mediante clique do usuário, essa imagem deve aparecer dentro da moldura para ser customizada. O elemento clicável deve ser identificado um um id denominado 'meme-1' para o primeiro meme, 'meme-2' para o segundo, e assim por diante.": 0,
+  "Limite o tamanho do texto que o usuário pode inserir. A quantidade máxima de caracteres deve ser 60.": 0
+}

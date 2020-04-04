@@ -1,0 +1,40 @@
+{
+  "project": {
+    "name": "betrybe/sd-0x-block5-project-meme-generator",
+    "description": "Projeto de HTML, CSS & JavaScript.",
+    "enabled": true,
+    "deadline": "YYYY-MM-DD 17:10:00",
+    "requirements": [
+      {
+        "description": "O site deve possuir uma caixa de texto com a qual quem usa pode interagir para inserir texto em cima da imagem escolhida.",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "O site deve permitir que quem usa faça upload de uma imagem de seu computador.",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "O site deve ter uma moldura no container. A moldura deve ter 1 pixel de largura, deve ser preta e do tipo 'solid'. A área onde a imagem aparecerá deve ter fundo branco.",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Permita a quem usa customizar o meme escolhido acrescentando a ele uma de três bordas. A página deve ter três botões, cada um colocando a própria borda ao redor do container. Um botão identificado com o id 'button1' deve estilizar o container da imagem com uma borda de 3 pixels, dashed e vermelha. O botão com id 'button2' deve ser azul, borda double de 5 pixels. O botão com id 'button3' deve ser verde com borda groove com 6 pixels.",
+        "enabled": true,
+        "bonus": true
+      },
+      {
+        "description": "Tenha um conjunto de quatro imagens pré prontas de memes famosos para o usuário escolher. Liste miniaturas das imagens e, mediante clique do usuário, essa imagem deve aparecer dentro da moldura para ser customizada. O elemento clicável deve ser identificado um um id denominado 'meme-1' para o primeiro meme, 'meme-2' para o segundo, e assim por diante. As imagens que identificam os memes devem ficar, dentro da aplicação, num diretório chamado 'imgs' com os respectivos nomes 'meme1.jpeg', 'meme2.jpeg' e assim por diante.",
+        "enabled": true,
+        "bonus": true
+      },
+      {
+        "description": "Limite o tamanho do texto que o usuário pode inserir. A quantidade máxima de caracteres deve ser 60.",
+        "enabled": true,
+        "bonus": true
+      }
+    ]
+  }
+}
